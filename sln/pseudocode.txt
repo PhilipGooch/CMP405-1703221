@@ -1,0 +1,70 @@
+if right pressed:
+	fps camera mode.
+else:
+	pan camera mode.
+
+
+if left clicked:
+	if intersection;
+		if selected object id = selection
+			flag object dragged.
+		else:
+			flag object selected.
+	else:
+		unflag object selected.
+
+
+
+
+
+
+
+if left pressed:
+	if object selected:
+		
+	else:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if left click clicked:
+	raycast.
+	if no intersection with object:
+		unflag object selected.
+
+
+
+if left click pressed:
+	if object being dragged:
+		set selected object to terrain intersection.
+	else:
+		if no object selected:
+			if ray intersects with object:
+				flag object selected.
+		else if object selected:
+			flag objected dragged.
+else:
+	if object being dragged:
+		unflag object dragged.
+
+
+
+
+			

@@ -1,0 +1,1 @@
+meshconvert yourfile.obj -cmo -flipz -flipv -flipu -y
